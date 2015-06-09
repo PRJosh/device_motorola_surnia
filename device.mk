@@ -161,6 +161,10 @@ PRODUCT_PACKAGES += \
     libcurl \
     tcpdump
 
+# Music
+PRODUCT_PACKAGES += \
+    Eleven
+
 # Wifi
 PRODUCT_PACKAGES += \
     p2p_supplicant_overlay.conf \
