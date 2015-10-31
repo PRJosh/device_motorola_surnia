@@ -185,6 +185,11 @@ PRODUCT_PACKAGES += \
     init.qcom.rc \
     ueventd.qcom.rc
 
+# Stlport
+PRODUCT_PACKAGES += \
+    libstlport
+
+
 
 # Wifi
 PRODUCT_PACKAGES += \
